@@ -1,0 +1,1 @@
+The repository contains C files with fuctions that would emulate the printf function that the stdio.h provides in C. The main function is called print. We are very excited to collaborate on this alx project
